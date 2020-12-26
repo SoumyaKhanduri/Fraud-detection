@@ -1,4 +1,4 @@
-# fraud_detection
+# Fraud Detection
 Detecting fraud for transactions in a payment gateway
 A new disruptive payment gateway start-up, ‘BI Gateway’, has started gaining traction due to its extremely low processing fees for handling online vendors’ digital payments. This strategy has led to very low costs of acquiring new vendors.
 Unfortunately, due to the cheap processing fees, the company was not able to build and deploy a robust and fast fraud detection system.
