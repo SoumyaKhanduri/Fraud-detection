@@ -6,4 +6,4 @@ Consequently, a lot of the vendors have accumulated significant economic burden 
 The company’s data engineers curated a dataset that they believe follows the real-world distribution of transactions on their payment gateway. The company hired You and provided it with the dataset, to create a fast and robust AI based model that can detect and prevent fraudulent transactions on its payment gateway.
 
 
-
+To open the application link, Please click here = https://bi-fraud-detection.herokuapp.com/
